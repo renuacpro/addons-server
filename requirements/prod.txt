@@ -146,9 +146,9 @@ boto3==1.14.28 \
     --hash=sha256:9a3c6b6f93d381f1d7a06ec0f50a9ad3d7b81509443f80ba222eb66befa8976a \
     --hash=sha256:ec3a7662e318455727b4b36f4a57ba473a90b6526cebf1fc10e847182f1fd917
 # see last comment - celery is in between boto3 and botocore on purpose.
-celery==4.4.2 \
-    --hash=sha256:108a0bf9018a871620936c33a3ee9f6336a89f8ef0a0f567a9001f4aa361415f \
-    --hash=sha256:5b4b37e276033fe47575107a2775469f0b721646a08c96ec2c61531e4fe45f2a
+celery==4.4.6 \
+    --hash=sha256:ef17d7dffde7fc73ecab3a3b6389d93d3213bac53fa7f28e68e33647ad50b916 \
+    --hash=sha256:fd77e4248bb1b7af5f7922dd8e81156f540306e3a5c4b1c24167c1f5f06025da
 botocore==1.17.28 \
     --hash=sha256:e855254817e289bb9a5fa3c143920c21ea8aeb424f1d4eed1e6c32d84dfd277d \
     --hash=sha256:71d45ae51c4c1a7ae485836016170a817d8d53292d940d04d72e49e473b98127
